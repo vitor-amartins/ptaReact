@@ -1,0 +1,38 @@
+.product {
+    background-color: #AAA;
+    display: flex;
+    align-items: center;
+}
+
+.product-image {
+    height: 80px;
+    margin: 10px;
+    border: 4px solid black;
+}
+
+.product-info-container {
+    margin: 0 20px;
+}
+
+.product-price {
+    font-weight: bold;
+}
+
+.btn-product {
+    margin: 10px;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 20px;
+    height: 30px;
+    width: 100px;
+}
+
+.amount-style {
+    font-weight: bold;
+    color: black;
+}
+
+.amount-style-zero {
+    font-weight: bold;
+    color: gray;
+}
